@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/75e5a243-c0cd-4e7a-86c5-e9e7aa267919)<div align="center">
-
 # 🚀 Quantrum AI
 
 안녕하세요! 저희는 **QuantrumAI**입니다. AI 기술을 활용하여 시장 분석을 위한 혁신적인 솔루션과 도구를 개발하는 팀입니다. 📊
