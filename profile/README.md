@@ -1,4 +1,4 @@
-<div align="center">
+![image](https://github.com/user-attachments/assets/75e5a243-c0cd-4e7a-86c5-e9e7aa267919)<div align="center">
 
 # 🚀 Quantrum AI
 
@@ -52,7 +52,13 @@ QuantrumAI는 최신 AI 기술(특히 LLM)과 강력한 웹 기술 스택을 결
 
 ## 📫 Contact Us
 
-* **Email:** [quantrumaicorp@gmail.com] * **Website:** [https://quantrumai.com] * **GitHub:** [https://github.com/QuantrumAI] ---
+**Email:** quantrumaicorp@gmail.com
+
+**Website:** https://quantrumai.com
+
+**GitHub:** https://github.com/QuantrumAI
+
+---
 
 <p align="center">
   <em>Innovating Finance with AI</em> ✨
