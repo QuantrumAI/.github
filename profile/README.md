@@ -41,13 +41,6 @@ QuantrumAI는 최신 AI 기술(특히 LLM)과 강력한 웹 기술 스택을 결
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![Ollama](https://img.shields.io/badge/Ollama-grey?style=flat)](https://ollama.com/)
 
-## 🤝 How to Contribute
-
-프로젝트에 기여하고 싶으신가요? 언제나 환영합니다!
-
-- 이슈 트래커를 통해 버그 리포트나 기능 제안을 해주세요.
-- Pull Request를 통해 직접 코드 개선에 참여해주시면 더욱 좋습니다!
-
 ## 📫 Contact Us
 
 **Email:** quantrumaicorp@gmail.com
