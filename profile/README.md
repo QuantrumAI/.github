@@ -15,9 +15,10 @@ QuantrumAI는 최신 AI 기술(특히 LLM)과 강력한 웹 기술 스택을 결
 * **Quantrum AI - Landing Page**
     * QuantrumAI 서비스의 특징과 팀을 소개하는 반응형 랜딩 페이지입니다.
     * *(기술 스택: React, Node.js, Express, Tailwind CSS)*
-    * 🔗 [QuantrumAI_Scalper](https://github.com/QuantrumAI/QuantrumAI_Scalper) - **Quantrum AI - Smart Stock & Crypto Chart Analyzer**
-    * Ollama LLM을 활용하여 주식 및 암호화폐 차트를 분석하고, 사용자 맞춤형 포트폴리오 관리 및 커뮤니티 기능을 제공하는 시스템입니다.
-    * *(기술 스택: Node.js, Express, SQLite, Socket.io, Ollama)*
+
+* **[Dipping-Frontend](https://github.com/QuantrumAI/Dipping-Frontend)/[Dipping-Backend](https://github.com/QuantrumAI/Dipping-Backend) - **Dipping - Smart Stock & Crypto Chart Analyzer****
+    * LLM을 활용하여 주식 및 암호화폐 차트를 분석하고, 사용자 맞춤형 포트폴리오 관리 및 커뮤니티 기능을 제공하는 시스템입니다.
+    * *(기술 스택: Django, React, TypeScript, PostgreSQL, Websocket, LLM)*
 
 > ➡️ 저희의 모든 프로젝트는 [QuantrumAI GitHub 저장소](https://github.com/QuantrumAI) 에서 확인하실 수 있습니다.
 
@@ -27,19 +28,18 @@ QuantrumAI는 최신 AI 기술(특히 LLM)과 강력한 웹 기술 스택을 결
 
 **Frontend:**
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 **Backend:**
 [![Node.js](https://img.shields.io/badge/Node.js-20%2B-green?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
-[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Websocket](https://img.shields.io/badge/Websocket-010101?style=flat&logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
 
 **Database & AI:**
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![Ollama](https://img.shields.io/badge/Ollama-grey?style=flat)](https://ollama.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![LLM](https://img.shields.io/badge/LLM-grey?style=flat)](https://en.wikipedia.org/wiki/Large_language_model)
 
 ## 📫 Contact Us
 
