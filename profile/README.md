@@ -12,13 +12,13 @@ QuantrumAI는 최신 AI 기술(특히 LLM)과 강력한 웹 기술 스택을 결
 
 저희가 진행 중인 주요 프로젝트는 다음과 같습니다:
 
-* **Quantrum AI - Landing Page**
+* **[Quantrum AI - Landing Page](https://github.com/QuantrumAI/quantrumai_landing)**
     * QuantrumAI 서비스의 특징과 팀을 소개하는 반응형 랜딩 페이지입니다.
     * *(기술 스택: React, Node.js, Express, Tailwind CSS)*
 
-* **[Dipping-Frontend](https://github.com/QuantrumAI/Dipping-Frontend)/[Dipping-Backend](https://github.com/QuantrumAI/Dipping-Backend) - **Dipping - Smart Stock & Crypto Chart Analyzer****
+* **[Dipping-Frontend](https://github.com/QuantrumAI/Dipping-Frontend) / [Dipping-Backend](https://github.com/QuantrumAI/Dipping-Backend) - **Dipping - Smart Stock & Crypto Chart Analyzer****
     * LLM을 활용하여 주식 및 암호화폐 차트를 분석하고, 사용자 맞춤형 포트폴리오 관리 및 커뮤니티 기능을 제공하는 시스템입니다.
-    * *(기술 스택: Django, React, TypeScript, PostgreSQL, Websocket, LLM)*
+    * *(기술 스택: React, TypeScript, Django, PostgreSQL, Websocket, LLM)*
 
 > ➡️ 저희의 모든 프로젝트는 [QuantrumAI GitHub 저장소](https://github.com/QuantrumAI) 에서 확인하실 수 있습니다.
 
@@ -52,7 +52,7 @@ QuantrumAI는 최신 AI 기술(특히 LLM)과 강력한 웹 기술 스택을 결
 ---
 
 <p align="center">
-  <em>Innovating Finance with AI</em> ✨
+  <em>Innovating Finance with AI!</em> ✨
 </p>
 
 <div align="center">
