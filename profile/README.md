@@ -16,11 +16,9 @@ QuantrumAI는 최신 AI 기술과 웹 기술 스택을 결합하여, 복잡한 �
     * LLM을 활용하여 주식 및 암호화폐 차트를 분석하고, 사용자 맞춤형 포트폴리오 관리 및 커뮤니티 기능을 제공하는 시스템입니다.
     * *(기술 스택: React, TypeScript, Django, PostgreSQL, Websocket, LLM)*
 
-* **[Quantrum AI - Landing Page](https://github.com/QuantrumAI/quantrumai_landing)**
+* **[Quantrum AI - Landing Page](https://github.com/QuantrumAI/quantrumai.com)**
     * QuantrumAI 서비스의 특징과 팀을 소개하는 반응형 랜딩 페이지입니다.
-    * *(기술 스택: React, Node.js, Express, Tailwind CSS)*
-
-> ➡️ 저희의 모든 프로젝트는 [QuantrumAI GitHub 저장소](https://github.com/QuantrumAI) 에서 확인하실 수 있습니다.
+    * *(기술 스택: React, Tailwind CSS, Vite, Django)*
 
 ## 🛠️ Tech Stack We Love
 
